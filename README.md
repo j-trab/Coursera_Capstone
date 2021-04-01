@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# IBM Capstone
 Cluster analysis on location data referring to the city of Venice, Italy.
 
 Which is the most optimal neighbourhood where to start a restaurant in Venice, Italy? 
